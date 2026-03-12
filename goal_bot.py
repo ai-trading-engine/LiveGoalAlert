@@ -1,9 +1,9 @@
 import requests
 import time
 
-BOT_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
-CHAT_ID = "YOUR_CHAT_ID"
-API_KEY = "YOUR_API_KEY"
+BOT_TOKEN = "8453055906:AAHiSGL5GgVvZOakbxeZVMdWcoFqAor5vWQ"
+CHAT_ID = "5523976168"
+API_KEY = "b65a354d40eead8407927b4b414fa98a"
 
 sent_goals = set()
 
